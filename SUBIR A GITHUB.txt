@@ -1,4 +1,6 @@
 ***RECUERDA LO DEL TOKEN, EN EL VIDEO DEL PROFE NO ESTÁ ACTUALIZADO
+***Al crear un token temporal solo necesitas seleccionar;
+	*** Note, Expiration, Repo, Workflow, Delete_repo, Project
 
 1 CREA EL REPOSITORIO EN GIT HUB
 2 EN TEAM, INICIA EL REPOSITORIO
